@@ -1,0 +1,12 @@
+{
+    "name": "pil/challenge_twig",
+    "authors": [
+        {
+            "name": "arnaud pilato",
+            "email": "pilato.arnaud@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
